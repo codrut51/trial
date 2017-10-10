@@ -19,3 +19,7 @@ func hello_user(x string) string {
 func stop() {
 	fmt.Println("Stop")
 }
+
+func start() {
+	fmt.Println("Start")
+}
